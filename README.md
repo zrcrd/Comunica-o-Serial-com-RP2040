@@ -52,6 +52,7 @@ Organização do Código: Código estruturado e comentado.
 └── ...                  # Demais arquivos necessários
 🖥️ Como Compilar
 Clone o repositório:
+https://github.com/zrcrd/Comunica-o-Serial-com-RP2040.git
 
 Navegue até o diretório do projeto:
 cd tarefaU403fev
